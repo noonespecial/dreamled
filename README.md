@@ -15,3 +15,7 @@ That blinking blue BT led that blinks by default was super annoying.
 Use it like : $# dreamled (ap|wlan|bt|all) [on|off|blink]
 
 I included and "all" switch mostly so I could do all "all off" by single command.
+
+
+I put the binary, compiled on a dreamplug, in this repo because a great many DreamPlug users
+don't have dev enviroments set up to compile an arm binary of the source.
