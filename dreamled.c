@@ -1,5 +1,5 @@
 /*#############################################################################
-# Title   : dedupe                                                            #
+# Title   : dreamled                                                          #
 # Version : 0.1                                                               #
 # Date    : Mar, 20 2011                                                      #
 # Desc.   : Control the LED's on a Dreamplug/Guruplug                         #
